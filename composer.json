@@ -1,0 +1,13 @@
+{
+    "name": "modes/telega-bot",
+    "description": "library for working with telegram bot API",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Modes\\TelegaBot\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
